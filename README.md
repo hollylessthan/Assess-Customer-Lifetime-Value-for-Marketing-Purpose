@@ -1,4 +1,4 @@
-# Assess-Customer-Lifetime-Value-for-Marketing-Purpose
+# Marketing-Assess-Customer-Lifetime-Value
 
 This is a course project from the Customer Analytics course at UCSD, and the data set is obtained from the course as well. The goal of this project is to analyze customer lifetime value for a alarm company to prepare for marketing and targeting.
 
