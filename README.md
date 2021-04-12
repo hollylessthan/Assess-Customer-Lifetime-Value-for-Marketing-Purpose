@@ -1,1 +1,1 @@
-# assess-customer-lifetime-value-for-marketing-purpose
+# Assess-Customer-Lifetime-Value-for-Marketing-Purpose
